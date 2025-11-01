@@ -94,3 +94,41 @@
 	width:50px;
 	height:150px;
 }
+@media screen and (max-width: 900px) {
+	.green2{
+		left:250px;
+	}
+	.purple{
+		left:350px;
+	}
+	.pink{
+	left:300px;
+    }
+    .yellow{
+	left:150px;
+    }
+    .blue{
+	left:450px;
+    }
+    .red{
+	left:270px;
+    }
+    .green{
+	left:200px;
+    }
+    .brown{
+	left:150px;
+    }
+    .black{
+	left:400px;
+    }
+    .orange{
+	left:200px;
+    }
+	.blue2{
+	left:150px;
+    }
+    .skyblue{
+	left:400px;
+    }
+}
